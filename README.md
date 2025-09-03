@@ -1,4 +1,4 @@
 # it's me
-This is my frist git repository.
+This is my first git repository.
 <br>
 author-rohansabale
